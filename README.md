@@ -42,7 +42,8 @@ Replace `Here` in the Live Demo and Case Study with the actual URLs to your proj
 -->
 
 ## How I Work
-![infra drawio](https://github.com/smadixd/smadixd/assets/49820024/7f9fc8b8-c5fa-43f8-bb82-e0af35bd76b2)
+![infra drawio](https://github.com/smadixd/smadixd/assets/49820024/34164daf-b9bc-4b3b-919a-82b9fb58a18c)
+
 
 
 ## Let's Connect
