@@ -49,6 +49,3 @@ Replace `Here` in the Live Demo and Case Study with the actual URLs to your proj
 - Visit my [Portfolio](https://mohammadalsmadi.com)
 - Email me at [smadi.dev@gmail.com](mailto:smadi.dev@gmail.com)
 - Connect on [LinkedIn](https://www.linkedin.com/in/smadixd)
-
-## My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=smadixd&show_icons=true&count_private=true)
