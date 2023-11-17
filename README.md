@@ -17,11 +17,12 @@ Welcome to my GitHub profile! Take a look at my repositories to see what I've be
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?logo=neo4j&logoColor=white)
 
-## My Projects
+// ## My Projects
 // Dynamic project cards or a list of your projects
 
 ## How I Work
-![image](https://github.com/smadixd/smadixd/assets/49820024/b32d9fa2-dd45-4d3f-9fee-88053bb1e313)
+![image](https://github.com/smadixd/smadixd/assets/49820024/6424a085-52c6-4dad-b3b4-ddb6503f88cb)
+
 
 ## Let's Connect
 - Visit my [Portfolio](https://mohammadalsmadi.com)
