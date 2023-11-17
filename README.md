@@ -21,7 +21,8 @@ Welcome to my GitHub profile! Take a look at my repositories to see what I've be
 // Dynamic project cards or a list of your projects
 
 ## How I Work
-![image](https://github.com/smadixd/smadixd/assets/49820024/6424a085-52c6-4dad-b3b4-ddb6503f88cb)
+![infra drawio](https://github.com/smadixd/smadixd/assets/49820024/7f9fc8b8-c5fa-43f8-bb82-e0af35bd76b2)
+
 
 
 ## Let's Connect
