@@ -29,4 +29,4 @@ Welcome to my GitHub profile! Take a look at my repositories to see what I've be
 - Connect on [LinkedIn](https://www.linkedin.com/in/smadixd)
 
 ## My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=smadixd&show_icons=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=smadixd&show_icons=true&count_private=true)
