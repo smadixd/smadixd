@@ -1,7 +1,4 @@
-# Hi there, I'm Mohammad Alsmadi 👋
-
-![Visitor Count](https://profile-counter.glitch.me/smadixd/count.svg)
-
+# Hi there, I'm Mohammad 👋
 ## About Me
 Welcome to my GitHub profile! Take a look at my repositories to see what I've been working on, and visit [my portfolio](https://mohammadalsmadi.com) for an in-depth look at my projects and experience.
 
