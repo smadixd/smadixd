@@ -20,27 +20,6 @@ Welcome to my GitHub profile! Take a look at my repositories to see what I've be
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
 
-<!---
-## My Projects
-
-Here's the syntax for listing projects:
-
-### [Project Name](https://github.com/yourusername/project-name)
-A brief description of what Project Name does. What problems it solves, the tech stack used, and any other relevant details.
-
-- **Tech Stack**: React, Node.js, MongoDB
-- **Live Demo**: [Here](Link to live project if available)
-- **Case Study**: [Here](Link to a blog post or case study if available)
-
-Replace `yourusername` with your actual GitHub username.
-Replace `project-name` with your actual project repository name.
-Replace `Here` in the Live Demo and Case Study with the actual URLs to your project demo or case studies.
-
--->
-
-## How I Work
-![infra drawio](https://github.com/smadixd/smadixd/assets/49820024/194e3782-4cee-44c6-a44e-546920d9633f)
-
 
 ## Let's Connect
 - Visit my [Portfolio](https://mohammadalsmadi.com)
