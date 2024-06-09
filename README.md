@@ -7,7 +7,10 @@ Welcome to my GitHub profile! Take a look at my repositories to see what I've be
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=white)
-![NPM](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white)
+[![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff)]
+[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)]
+[![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff)]
+[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)]
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white)
 
