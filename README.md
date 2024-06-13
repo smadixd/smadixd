@@ -5,6 +5,7 @@ Welcome to my GitHub profile! Take a look at my repositories to see what I've be
 ## Skills
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff)
